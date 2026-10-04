@@ -1,57 +1,55 @@
-# 👋 Olá, eu sou Daniel Menezes!
+# Olá, eu sou o Daniel Menezes 👋
 
-### 📊 Cientista de Dados Júnior | Python | SQL | Machine Learning | Finanças
-
-Sou formado em Física e estou construindo minha carreira em **Ciência de Dados**, com interesse em **Estatística, Machine Learning e aplicações no Mercado Financeiro**.
-
-Gosto de transformar dados em análises, modelos e soluções que possam gerar insights para tomada de decisão.
+🎓 **Graduando em Física** pela **Universidade Federal Fluminense (UFF)**  
+🎯 **Objetivo:** Atuar como **Analista Quantitativo (Quant Analyst)**, aplicando modelagem matemática, estatística e programação no mercado financeiro.
 
 ---
 
-## 🧠 Sobre mim
+### 🔬 Sobre Mim
 
-🎓 **Formação:** Física  
-📊 **Área:** Ciência de Dados  
-🐍 **Linguagem principal:** Python  
-📈 **Interesse:** Dados + Finanças  
-🤖 **Foco:** Machine Learning e Estatística  
-
-Atualmente estou desenvolvendo projetos práticos para fortalecer meu portfólio e aprofundar meus conhecimentos em análise de dados, modelagem estatística e aplicações financeiras.
+- 📐 **Formação:** Base sólida em Física Teórica e Computacional, Cálculo Avançado, Álgebra Linear e Estatística.
+- 📈 **Foco de Estudo:** Finanças Quantitativas, Análise de Séries Temporais, Machine Learning e Modelagem Financeira.
+- 💡 **Interesses:** Desenvolvimento de estratégias quantitativas, gestão de risco e precificação de ativos.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tecnologias & Ferramentas
 
-### 🐍 Linguagens
+![Python](https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white&labelColor=121212)
 
-![Python](https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=E0E0E0)
-![SQL](https://img.shields.io/badge/SQL-121212?style=for-the-badge&logo=postgresql&logoColor=E0E0E0)
+#### 📚 Bibliotecas (Data Science & Quant)
+![yfinance](https://img.shields.io/badge/yfinance-8A2BE2?style=for-the-badge&logo=python&logoColor=white&labelColor=121212)
+![Pandas](https://img.shields.io/badge/Pandas-8A2BE2?style=for-the-badge&logo=pandas&logoColor=white&labelColor=121212)
+![NumPy](https://img.shields.io/badge/NumPy-8A2BE2?style=for-the-badge&logo=numpy&logoColor=white&labelColor=121212)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-8A2BE2?style=for-the-badge&logo=python&logoColor=white&labelColor=121212)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-8A2BE2?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=121212)
+![Selenium](https://img.shields.io/badge/Selenium-8A2BE2?style=for-the-badge&logo=selenium&logoColor=white&labelColor=121212)
 
-### 📊 Data Science
+#### 🗄️ Bancos de Dados & SQL
+![SQLite](https://img.shields.io/badge/SQLite-8A2BE2?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=121212)
+![MySQL](https://img.shields.io/badge/MySQL-8A2BE2?style=for-the-badge&logo=mysql&logoColor=white&labelColor=121212)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8A2BE2?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=121212)
+![MongoDB](https://img.shields.io/badge/MongoDB-8A2BE2?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=121212)
 
-![Pandas](https://img.shields.io/badge/Pandas-121212?style=for-the-badge&logo=pandas&logoColor=E0E0E0)
-![NumPy](https://img.shields.io/badge/NumPy-121212?style=for-the-badge&logo=numpy&logoColor=E0E0E0)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-121212?style=for-the-badge&logo=scikit-learn&logoColor=E0E0E0)
-
-### 📈 Mercado Financeiro
-
-![YFinance](https://img.shields.io/badge/yfinance-121212?style=for-the-badge&logo=python&logoColor=E0E0E0)
-
-### 🗄️ Outras ferramentas
-
-![MongoDB](https://img.shields.io/badge/MongoDB-121212?style=for-the-badge&logo=mongodb&logoColor=E0E0E0)
-![Selenium](https://img.shields.io/badge/Selenium-121212?style=for-the-badge&logo=selenium&logoColor=E0E0E0)
-![Git](https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git&logoColor=E0E0E0)
-![GitHub](https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=E0E0E0)
+#### 🔧 Ferramentas & Visualização
+![VSCode](https://img.shields.io/badge/VS_Code-8A2BE2?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=121212)
+![Git](https://img.shields.io/badge/Git-8A2BE2?style=for-the-badge&logo=git&logoColor=white&labelColor=121212)
+![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=121212)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-8A2BE2?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=121212)
+![Power BI](https://img.shields.io/badge/Power_BI-8A2BE2?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=121212)
 
 ---
 
-## 📚 Atualmente estudando
+### 📊 Estatísticas do GitHub
 
-```text
-Python
-SQL
-Estatística e Probabilidade
-Análise de Dados
-Machine Learning
-Mercado Financeiro
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=synthwave&hide_border=true" alt="Estatísticas do GitHub" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=synthwave&hide_border=true" alt="Linguagens Mais Usadas" height="180"/>
+</p>
+
+---
+
+### 📫 Como me encontrar
+
+- 💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+- 📧 **E-mail:** seu.email@exemplo.com
