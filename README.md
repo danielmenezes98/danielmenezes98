@@ -1,51 +1,57 @@
-# 📊 Cientista de Dados Junior
+# 👋 Olá, eu sou Daniel Menezes!
 
-### Sejam muito bem-vindos ao meu Github, aproveitem a estadia 👋
+### 📊 Cientista de Dados Júnior | Python | SQL | Machine Learning | Finanças
 
-<hr style="height: 4px; background-color: #30363d; border: none; margin: 20px 0;" />
+Sou formado em Física e estou construindo minha carreira em **Ciência de Dados**, com interesse em **Estatística, Machine Learning e aplicações no Mercado Financeiro**.
+
+Gosto de transformar dados em análises, modelos e soluções que possam gerar insights para tomada de decisão.
+
+---
+
+## 🧠 Sobre mim
+
+🎓 **Formação:** Física  
+📊 **Área:** Ciência de Dados  
+🐍 **Linguagem principal:** Python  
+📈 **Interesse:** Dados + Finanças  
+🤖 **Foco:** Machine Learning e Estatística  
+
+Atualmente estou desenvolvendo projetos práticos para fortalecer meu portfólio e aprofundar meus conhecimentos em análise de dados, modelagem estatística e aplicações financeiras.
+
+---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### Linguagens
+### 🐍 Linguagens
 
-![Python](https://img.shields.io/badge/Python-121212?style=flat&logo=python&logoColor=E0E0E0)
-![SQL](https://img.shields.io/badge/SQL-121212?style=flat&logo=postgresql&logoColor=E0E0E0)
+![Python](https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=E0E0E0)
+![SQL](https://img.shields.io/badge/SQL-121212?style=for-the-badge&logo=postgresql&logoColor=E0E0E0)
 
-### Bibliotecas & Frameworks
+### 📊 Data Science
 
-![Pandas](https://img.shields.io/badge/Pandas-121212?style=flat&logo=pandas&logoColor=E0E0E0)
-![NumPy](https://img.shields.io/badge/NumPy-121212?style=flat&logo=numpy&logoColor=E0E0E0)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-121212?style=flat&logo=scikit-learn&logoColor=E0E0E0)
-![yfinance](https://img.shields.io/badge/yfinance-121212?style=flat&logo=python&logoColor=E0E0E0)
+![Pandas](https://img.shields.io/badge/Pandas-121212?style=for-the-badge&logo=pandas&logoColor=E0E0E0)
+![NumPy](https://img.shields.io/badge/NumPy-121212?style=for-the-badge&logo=numpy&logoColor=E0E0E0)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-121212?style=for-the-badge&logo=scikit-learn&logoColor=E0E0E0)
 
-### Ferramentas
+### 📈 Mercado Financeiro
 
-![MongoDB](https://img.shields.io/badge/MongoDB-121212?style=flat&logo=mongodb&logoColor=E0E0E0)
-![Selenium](https://img.shields.io/badge/Selenium-121212?style=flat&logo=selenium&logoColor=E0E0E0)
+![YFinance](https://img.shields.io/badge/yfinance-121212?style=for-the-badge&logo=python&logoColor=E0E0E0)
 
-<hr style="height: 4px; background-color: #30363d; border: none; margin: 20px 0;" />
+### 🗄️ Outras ferramentas
+
+![MongoDB](https://img.shields.io/badge/MongoDB-121212?style=for-the-badge&logo=mongodb&logoColor=E0E0E0)
+![Selenium](https://img.shields.io/badge/Selenium-121212?style=for-the-badge&logo=selenium&logoColor=E0E0E0)
+![Git](https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git&logoColor=E0E0E0)
+![GitHub](https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=E0E0E0)
+
+---
 
 ## 📚 Atualmente estudando
 
-- Python
-- SQL
-- Estatística e Probabilidade
-- Machine Learning
-- Ciência de Dados
-- Mercado Financeiro
-
-<hr style="height: 4px; background-color: #30363d; border: none; margin: 20px 0;" />
-
-## 📂 Projetos
-
-### 📊 Simulação de Carteiras
-
-Simulação e análise de carteiras de investimentos utilizando Python.
-
-🔗 [Acessar projeto](https://github.com/danielmenezes98/Simulacao_carteiras)
-
-<hr style="height: 4px; background-color: #30363d; border: none; margin: 20px 0;" />
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-121212?style=flat&logo=linkedin&logoColor=E0E0E0)](https://www.linkedin.com/in/daniel-menezes-silva/)
+```text
+Python
+SQL
+Estatística e Probabilidade
+Análise de Dados
+Machine Learning
+Mercado Financeiro
