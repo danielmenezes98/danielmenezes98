@@ -1,7 +1,7 @@
 # Olá, eu sou o Daniel Menezes 👋
 
 🎓 **Graduando em Física** pela **Universidade Federal Fluminense (UFF)**  
-🎯 **Objetivo:** Construir carreira em **Ciência de Dados e Finanças Quantitativas**, aplicando matemática, estatística e programação à análise de dados e ao mercado financeiro.
+🎯 **Objetivo:** Construir carreira em **Ciência de Dados e Finanças Quantitativas**, aplicando matemática, estatística, programação e machine learning ao mercado financeiro.
 
 ---
 
@@ -21,14 +21,14 @@
 ![Python](https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white&labelColor=121212)
 ![SQL](https://img.shields.io/badge/SQL-8A2BE2?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=121212)
 
-#### 📚 Data Science & Machine Learning
+#### 📚 Bibliiotecas para Data Science & Machine Learning
 
 ![Pandas](https://img.shields.io/badge/Pandas-8A2BE2?style=for-the-badge&logo=pandas&logoColor=white&labelColor=121212)
 ![NumPy](https://img.shields.io/badge/NumPy-8A2BE2?style=for-the-badge&logo=numpy&logoColor=white&labelColor=121212)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-8A2BE2?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=121212)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-8A2BE2?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=121212)
 
-#### 📈 Mercado Financeiro
+#### 📈 Biblioteca para o Mercado Financeiro
 
 ![YFinance](https://img.shields.io/badge/yfinance-8A2BE2?style=for-the-badge&logo=python&logoColor=white&labelColor=121212)
 
@@ -37,7 +37,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-8A2BE2?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=121212)
 ![MySQL](https://img.shields.io/badge/MySQL-8A2BE2?style=for-the-badge&logo=mysql&logoColor=white&labelColor=121212)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8A2BE2?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=121212)
-![MongoDB](https://img.shields.io/badge/MongoDB-8A2BE2?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=121212)
 
 #### 🔧 Ferramentas & Visualização
 
