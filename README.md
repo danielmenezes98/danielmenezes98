@@ -1,18 +1,28 @@
-# Olá, eu sou o Daniel Menezes 👋
-
-🎓 **Graduando em Física** pela **Universidade Federal Fluminense (UFF)**  
-🎯 **Objetivo:** Construir carreira em **Ciência de Dados e Finanças Quantitativas**, aplicando matemática, estatística, programação e machine learning ao mercado financeiro.
-
+# 📊 Cientista de Dados Júnior | Finanças Quantitativas
 ---
 
-### 🔬 Sobre Mim
+### 👋 Seja bem-vindo(a) ao meu GitHub!
 
-- 📐 **Formação:** Física, com sólida base em Cálculo, Álgebra Linear, Probabilidade e modelagem matemática.
-- 📊 **Foco de Estudo:** Ciência de Dados, Estatística, Machine Learning, séries temporais e aplicações financeiras.
-- 📈 **Interesses:** Análise quantitativa, investimentos, gestão de risco, modelagem financeira e desenvolvimento de estratégias orientadas por dados.
-- 💻 **Objetivo profissional:** Desenvolver soluções utilizando dados, estatística e programação para resolver problemas reais.
+## 🔬 Sobre Mim
 
----
+🎓 **Graduando em Física pela Universidade Federal Fluminense (UFF)**, com interesse em Ciência de Dados, modelagem matemática e aplicações quantitativas no mercado financeiro.
+
+🎯 **Objetivo profissional:** Desenvolver soluções orientadas por dados, utilizando matemática, estatística, programação e *Machine Learning* para analisar problemas complexos e apoiar a tomada de decisões.
+
+### 📚 Áreas de Estudo
+
+- 📊 **Ciência de Dados:** análise exploratória, tratamento e visualização de dados.
+- 📐 **Matemática e Estatística:** modelagem matemática, probabilidade e inferência estatística.
+- 🤖 **Machine Learning:** desenvolvimento e avaliação de modelos preditivos.
+- 📈 **Séries Temporais:** análise de tendências, modelagem e previsão.
+- 💰 **Finanças Quantitativas:** análise de investimentos, gestão de riscos e estratégias quantitativas.
+
+### 🚀 Objetivo
+
+Construir projetos práticos que conectem ciência, tecnologia e mercado financeiro, transformando dados em informações relevantes e modelos quantitativos capazes de gerar insights e apoiar decisões.
+
+🤝 Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução! 
+🤝 Sempre aberto a opções e colaborações
 
 ### 🛠️ Tecnologias & Ferramentas
 
