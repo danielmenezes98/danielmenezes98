@@ -1,13 +1,15 @@
 # 📊 Cientista de Dados Júnior | Finanças Quantitativas
----
+----------------------------------------------------------------------------
 
 ### 👋 Seja bem-vindo(a) ao meu GitHub!
+----------------------------------------------------------------------------
 
 ## 🔬 Sobre Mim
 
 🎓 **Graduando em Física pela Universidade Federal Fluminense (UFF)**, com interesse em Ciência de Dados, modelagem matemática e aplicações quantitativas no mercado financeiro.
 
 🎯 **Objetivo profissional:** Desenvolver soluções orientadas por dados, utilizando matemática, estatística, programação e *Machine Learning* para analisar problemas complexos e apoiar a tomada de decisões.
+
 
 ### 📚 Áreas de Estudo
 
@@ -16,6 +18,7 @@
 - 🤖 **Machine Learning:** desenvolvimento e avaliação de modelos preditivos.
 - 📈 **Séries Temporais:** análise de tendências, modelagem e previsão.
 - 💰 **Finanças Quantitativas:** análise de investimentos, gestão de riscos e estratégias quantitativas.
+- 
 
 ### 🚀 Objetivo
 
@@ -23,6 +26,7 @@ Construir projetos práticos que conectem ciência, tecnologia e mercado finance
 
 🤝 Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução! 
 🤝 Sempre aberto a opções e colaborações
+
 
 ### 🛠️ Tecnologias & Ferramentas
 
